@@ -68,7 +68,6 @@ Run the SQL schema (schema.sql) to create all tables:
 
 SOURCE /path/to/schema.sql;
 
-
 Verify tables:
 
 SHOW TABLES;
